@@ -1,7 +1,7 @@
 # IT-Security-Assessment-DragonSec-Team
 <img src="./DragonSec.png" alt="DragonSec Logo" width="200"/>
 
-Check out my [Security Assessment Project on Drexel CCI](https://seniorproject.cci.drexel.edu/project/23c3a38f-07a5-4492-b348-5201321e3b16/)).
+Check out my [Security Assessment Project on Drexel CCI](https://seniorproject.cci.drexel.edu/project/23c3a38f-07a5-4492-b348-5201321e3b16/).
 
 Drexel University, College of Computing & Informatics
 This project, developed during my senior year at Drexel University’s College of Computing & Informatics, focuses on comprehensive security assessments combining IT support and cybersecurity best practices. The DragonSec Team led in-depth vulnerability assessments and penetration testing across institutional networks, web applications, and physical infrastructure. The approach was holistic, covering all layers of security—from software and hardware to digital and physical environments.
