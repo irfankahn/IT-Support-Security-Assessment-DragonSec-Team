@@ -1,4 +1,6 @@
 # IT-Support-Security-Assessment-DragonSec-Team
+![DragonSec Logo](./DragonSec.png)
+
 
 Check out my [project on Security Assessment](https://seniorproject.cci.drexel.edu/project/23c3a38f-07a5-4492-b348-5201321e3b16/)).
 
